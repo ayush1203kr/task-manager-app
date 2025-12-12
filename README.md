@@ -147,8 +147,8 @@ Frontend Features
 ✔ Auto redirect on expired token
 ✔ TailwindCSS UI
 
-👨‍💻 Author
-
+Live demo: https://www.loom.com/share/003d1d8e5df74a508cb555c74271d705
+👨‍💻 Author 
 Ayush Kumar
 📌 GitHub: https://github.com/ayush1203kr
 
